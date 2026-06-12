@@ -11,11 +11,10 @@ B.Tech IT Student | MERN Stack Developer | BACKEND
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Information Technology Student
-- 💻 MERN Stack Developer
-- 🤖 Building AI Applications
-- 🌱 Currently learning Next.js, TypeScript & Docker
-- 📫 Contact: patilvaibhav8197@gmail.com
+-  B.Tech Information Technology Student
+-  MERN Stack Developer
+-  Currently learning Next.js, TypeScript & Docker
+-  Contact: patilvaibhav8197@gmail.com
 
 ---
 
