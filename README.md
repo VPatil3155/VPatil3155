@@ -6,7 +6,7 @@ B.Tech IT Student | MERN Stack Developer | BACKEND
 
 ---
 <p align="center">
-  <img src="assets/coding.gif" width="700">
+  <img src="assets/giphy.webp" width="700">
 </p>
 
 ## 🚀 About Me
