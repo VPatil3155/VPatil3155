@@ -1,20 +1,32 @@
-# Hi, I'm Vaibhav Patil 👋
+<h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
 
-## About Me
+<h3 align="center">
+B.Tech IT Student | MERN Stack Developer | BACKEND
+</h3>
 
-- B.Tech Information Technology Student
-- MERN Stack Developer
-- Learning Next.js and TypeScript
-- Interested in AI Applications and Full Stack Development
+---
+<p align="center">
+  <img src="assets/coding.gif" width="700">
+</p>
 
-## Tech Stack
+## 🚀 About Me
+
+- 🎓 B.Tech Information Technology Student
+- 💻 MERN Stack Developer
+- 🤖 Building AI Applications
+- 🌱 Currently learning Next.js, TypeScript & Docker
+- 📫 Contact: patilvaibhav8197@gmail.com
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
 - React.js
-- Next.js
 - JavaScript
-- TypeScript
 - Tailwind CSS
+- HTML
+- CSS
 
 ### Backend
 - Node.js
@@ -32,18 +44,17 @@
 - Postman
 - VS Code
 
-## Featured Projects
+---
 
-### GoDoctor
-Healthcare appointment booking platform.
+## ⭐ Featured Projects
+
+### GoDoctors
+Healthcare platform built using MERN Stack.
+
+### QuickAI
+AI SaaS Platform with Article Generator, Image Generator, Resume Analyzer and more.
 
 ### WonderLust
 Travel booking platform inspired by Airbnb.
 
-### AI SaaS Platform
-Article Generator, Image Generator, Resume Analyzer and more.
-
-## Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/vaibhav-patil-a95544308?
-- Email: patilvaibhav8197@gmail.com
+---
