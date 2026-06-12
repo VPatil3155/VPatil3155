@@ -34,7 +34,7 @@
 
 ## Featured Projects
 
-### MediLink
+### GoDoctor
 Healthcare appointment booking platform.
 
 ### WonderLust
@@ -45,5 +45,5 @@ Article Generator, Image Generator, Resume Analyzer and more.
 
 ## Connect With Me
 
-- LinkedIn: your-linkedin
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/vaibhav-patil-a95544308?
+- Email: patilvaibhav8197@gmail.com
